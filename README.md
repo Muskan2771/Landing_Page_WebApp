@@ -1,7 +1,7 @@
 # Landing Page Web App
 
 ## Description
-A landing page for "Muskan's Burger" showcasing the best burgers.  
+A landing page for "Tasty Bites" showcasing the best burgers.  
 Includes a hero section with navigation links and a call-to-action button.
 
 ## Features
