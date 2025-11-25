@@ -19,6 +19,9 @@ Includes a hero section with navigation links and a call-to-action button.
 git clone https://github.com/Muskan2771/Landing_Page_WebApp.git
 
 2. Open `index.html` in any web browser.
+   
+### Screenshot
+![Landing Page Screenshot](assets/Tasty Bites.jpeg)
 
 ## Learning Outcomes
 - Learned CSS animations and transitions
